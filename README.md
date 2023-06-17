@@ -1,7 +1,7 @@
 # Mini Processador de Imagens
 
 ## Descrição do Projeto
-Permita aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
+Permite aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
 
 OBS: A biblioteca ```googletrans``` utiliza a API pública do Google Tradutor, é importante notar que **haverá diferenças** entre a tradução fornecida pela biblioteca e a tradução exata no site do Google Tradutor. A biblioteca é uma interface para a API e vai ocorrer variações na qualidade da tradução.
 
