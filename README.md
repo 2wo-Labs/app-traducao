@@ -1,4 +1,4 @@
-# Mini Processador de Imagens
+# Mini Tradutor de Textos
 
 ## Descrição do Projeto
 Permite aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
